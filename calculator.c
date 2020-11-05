@@ -6,7 +6,7 @@
 int main(){
 
 	float num1;
-	int num2;
+	float num2;
 	float ans;
 	char op;
 	printf("\nEnter an operator (+,-,/,*): \n");
