@@ -20,6 +20,14 @@ int main(){
 		case '+' : 
 			ans = num1 + num2;
 			break;
+		case '-' :
+			ans=num1-num2;
+			break;
+		case '/':
+			ans=num1/num2;
+			break;
+		case '*':
+			ans=num1*num2;
 		default:
 			printf("Enter a correct operator!");
 			return 1;
